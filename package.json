@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "parcel watch entrypoint.js -o output",
+    "build": "parcel build entrypoint.js -o output"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "sass": "^1.26.3"
+  }
+}
